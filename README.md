@@ -2,28 +2,48 @@
 ##
 > - ## **Bidding DO**
 
-Bidding DO merupakan sebuah aplikasi yang digunakan sebagai tempat para vendor ekspedisi mengajukan persaingan harga pada suatu DO. Pada saat membuat DO, planner menentukan DO mana yang akan masuk pada server lelang beserta jalur yang digunakan. Jika menggunakan jalur laut, maka ekspedisi akan bersaing untuk mengajukan harga pada DO yang telah masuk ke sistem. Jika menggunakan jalur darat, maka ekspedisi akan berlomba-lomba mengajukan harga terbaik mereka agar memperbesar kesempatan untuk mendapatkan DO.
-Setelah itu planner cukup menunggu saja hasil lelang pada waktu tertentu. Dengan aplikasi ini, planner tidak perlu lagi menghubungi satu-satu vendor ekspedisi untuk mencari ekspedisi mana yang akan membawa suatu DO sehingga memudahkan kerja planner. Selain itu, dengan aplikasi ini secara tidak langsung memaksa ekspedisi memberikan harga terbaik
+![image](https://github.com/user-attachments/assets/767cd4ea-d376-4c1f-9ac0-85a35bf11253)
+![image](https://github.com/user-attachments/assets/cc13d3af-8f42-40c3-a8e9-109fa9476341)
+![image](https://github.com/user-attachments/assets/ae475afc-bcac-4c7a-a0c5-a1b7f7359d96)
+![image](https://github.com/user-attachments/assets/a4c76fed-3784-4f8a-954c-262cdb194759)
+  Bidding DO merupakan sebuah aplikasi yang digunakan sebagai tempat para vendor ekspedisi mengajukan persaingan harga pada suatu DO. Pada saat membuat DO, planner menentukan DO mana yang akan masuk pada server lelang beserta jalur yang digunakan. Jika menggunakan jalur laut, maka ekspedisi akan bersaing untuk mengajukan harga pada DO yang telah masuk ke sistem. Jika menggunakan jalur darat, maka ekspedisi akan berlomba-lomba mengajukan harga terbaik mereka agar memperbesar kesempatan untuk mendapatkan DO.
+  Setelah itu planner cukup menunggu saja hasil lelang pada waktu tertentu. Dengan aplikasi ini, planner tidak perlu lagi menghubungi satu-satu vendor ekspedisi untuk mencari ekspedisi mana yang akan membawa suatu DO sehingga memudahkan kerja planner. Selain itu, dengan aplikasi ini secara tidak langsung memaksa ekspedisi memberikan harga terbaik. Aplikasi ini juga dilengkapi dengan fitur notifikasi untuk Penerimaan DO, Listing DO Baru, dan Pemenang Lelang beserta File FOK Resmi sebagai dasar pengambilan Order.
 
 ##
 > - ## **E-PP**
 
-Aplikasi ini digunakan untuk memudahkan Approval pada suatu PP dimanapun dan kapanpun hanya via smartphone masing-masing tanpa melalui aplikasi Orlansoft. Selain itu, aplikasi ini juga dapat melampirkan dokumen sebagai pendukung dari dibuatnya suatu PP. Sehingga, aplikasi ini mengurangi  penggunaan kertas, mengurangi jumlah HK, dan dapat mengurangi biaya lainnya serta efisiensi waktu dalam suatu alur PP
-
-##
-> - ## **E-Faktur**
-
-Aplikasi untuk melakukan pengecekan data yang sudah input melalui link efaktur pajak
+![image](https://github.com/user-attachments/assets/052da223-e561-49a3-bca1-b12b846069e0)
+![image](https://github.com/user-attachments/assets/93402c8a-1e27-48dd-80c7-045328914a48)
+![image](https://github.com/user-attachments/assets/36df7a00-2816-4ade-8e52-53fea0f3547f)
+![image](https://github.com/user-attachments/assets/4d25a5e4-3622-4967-b7e8-2b54e7ab9612)
+![image](https://github.com/user-attachments/assets/0b124634-ac5e-4fa2-befb-d1fde350276c)
+![image](https://github.com/user-attachments/assets/e702ee23-a392-49b7-8779-19159c4a1b57)
+  Aplikasi ini digunakan untuk memudahkan Approval pada suatu PP dimanapun dan kapanpun hanya via smartphone masing-masing tanpa melalui aplikasi Orlansoft. Selain itu, aplikasi ini juga dapat melampirkan dokumen sebagai pendukung dari dibuatnya suatu PP. Sehingga, aplikasi ini mengurangi penggunaan kertas, mengurangi jumlah HK, dan dapat mengurangi biaya lainnya serta efisiensi waktu dalam suatu alur PP. 
+  Fitur Lain pada Aplikasi ini adalah fitur notifikasi jika terdapat Approval PP baru untuk beberapa user dan Full Approved untuk Dept Purchase.
 
 ##
 > - ## **KPI**
 
-KPI (Key Performance Indicator) adalah sebuah aplikasi yang membantu HR untuk mengelola dan menganalisa kinerja karyawan agar tujuan perusahaan tercapai. Selain itu aplikasi ini juga membantu HR untuk mengevaluasi kinerja karyawan berupa report mingguan maupun bulanan sehingga dapat menentukan bagian mana yang dapat dilakukan perbaikan. Selain itu, Aplikasi ini juga menjadi acuan untuk pemberian besaran Insentif yang diterima pada beberapa Karyawan
+![image](https://github.com/user-attachments/assets/23c36d13-7970-48c8-9f20-4c79518b70b5)
+![image](https://github.com/user-attachments/assets/e5ea6f02-7884-4131-a501-3a40ea4c0e29)
+![image](https://github.com/user-attachments/assets/a2ec0818-e38b-49f3-abd3-35f456cf5fa7)
+![image](https://github.com/user-attachments/assets/789c5b85-ab02-4910-b31c-b03023a7de3d)
+![image](https://github.com/user-attachments/assets/90511267-b680-42ff-a039-781cf887aa37)
+![image](https://github.com/user-attachments/assets/cdd8f3af-f37f-43a2-b0b8-2cc23a74fb3f)
+![image](https://github.com/user-attachments/assets/a57d115c-91ee-4393-9970-781e2d152ecc)
+![image](https://github.com/user-attachments/assets/09ca729d-f3ab-41f4-a994-23a15ecb4b80)
+  KPI (Key Performance Indicator) adalah sebuah aplikasi yang membantu HR untuk mengelola, menganalisa, dan memonitoring kinerja karyawan agar tujuan perusahaan tercapai. Selain itu aplikasi ini juga membantu HR untuk mengevaluasi kinerja karyawan berupa report mingguan maupun bulanan sehingga dapat menentukan bagian mana yang dapat dilakukan perbaikan. Selanjutnya, Aplikasi ini juga menjadi dasar acuan untuk pemberian besaran Insentif yang akan diterima pada beberapa Karyawan.
 
 ##
 > - ## **E-RAB**
 
-Aplikasi ini digunakan untuk memudahkan Approval pada suatu RAB dimanapun dan kapanpun hanya via smartphone masing-masing tanpa melalui aplikasi Orlansoft Desktop. Selain itu, aplikasi ini juga dapat melampirkan dokumen sebagai pendukung dari dibuatnya suatu RAB. Sehingga, aplikasi ini mengurangi  penggunaan kertas, mengurangi jumlah HK, dan dapat mengurangi biaya serta memudahkan proses lainnya dalam suatu alur RAB
+![image](https://github.com/user-attachments/assets/0b332a50-c1f2-4087-ab4c-1f03876394ce)
+![image](https://github.com/user-attachments/assets/48e1e68a-37a2-419e-97bb-475fe3fd2ec1)
+![image](https://github.com/user-attachments/assets/2af0e57b-3bc0-4ea0-96eb-1cea9f4270c2)
+![image](https://github.com/user-attachments/assets/914c594f-35ea-4955-91cb-705b2696a123)
+![image](https://github.com/user-attachments/assets/70a6305b-fb6c-4766-b3c8-b334cbe92814)
+  Aplikasi ini digunakan untuk memudahkan Approval pada suatu RAB dimanapun dan kapanpun hanya via smartphone masing-masing tanpa melalui aplikasi Orlansoft Desktop. Selain itu, aplikasi ini juga dapat melampirkan dokumen sebagai pendukung dari dibuatnya suatu RAB. Sehingga, aplikasi ini mengurangi  penggunaan kertas, mengurangi jumlah HK, dan dapat mengurangi biaya serta memudahkan proses lainnya dalam suatu alur RAB.
+  Fitur Lain pada Aplikasi ini adalah fitur notifikasi jika terdapat Approval RAB baru untuk.
 
 ##
 > - ## **WO Teknik - CRS**
