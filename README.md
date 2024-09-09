@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/a4c76fed-3784-4f8a-954c-262cdb194759)
   Bidding DO merupakan sebuah aplikasi yang digunakan sebagai tempat para vendor ekspedisi mengajukan persaingan harga pada suatu DO. Pada saat membuat DO, planner menentukan DO mana yang akan masuk pada server lelang beserta jalur yang digunakan. Jika menggunakan jalur laut, maka ekspedisi akan bersaing untuk mengajukan harga pada DO yang telah masuk ke sistem. Jika menggunakan jalur darat, maka ekspedisi akan berlomba-lomba mengajukan harga terbaik mereka agar memperbesar kesempatan untuk mendapatkan DO.
   Setelah itu planner cukup menunggu saja hasil lelang pada waktu tertentu. Dengan aplikasi ini, planner tidak perlu lagi menghubungi satu-satu vendor ekspedisi untuk mencari ekspedisi mana yang akan membawa suatu DO sehingga memudahkan kerja planner. Selain itu, dengan aplikasi ini secara tidak langsung memaksa ekspedisi memberikan harga terbaik. Aplikasi ini juga dilengkapi dengan fitur notifikasi untuk Penerimaan DO, Listing DO Baru, dan Pemenang Lelang beserta File FOK Resmi sebagai dasar pengambilan Order.
+- Source Code : [Bidding DO](https://drive.google.com/file/d/1nj1GD7qxpD3TgmDZolSvxzw4e3fQeqXz/view?usp=sharing)
+- Live Apps : [Here](182.16.186.138:8080/bidding_do)
 
 ##
 > - ## **E-PP (PT. Siantar Top)**
@@ -20,9 +22,11 @@
 ![image](https://github.com/user-attachments/assets/e702ee23-a392-49b7-8779-19159c4a1b57)
   Aplikasi ini digunakan untuk memudahkan Approval pada suatu PP dimanapun dan kapanpun hanya via smartphone masing-masing tanpa melalui aplikasi Orlansoft. Selain itu, aplikasi ini juga dapat melampirkan dokumen sebagai pendukung dari dibuatnya suatu PP. Sehingga, aplikasi ini mengurangi penggunaan kertas, mengurangi jumlah HK, dan dapat mengurangi biaya lainnya serta efisiensi waktu dalam suatu alur PP. 
   Fitur Lain pada Aplikasi ini adalah fitur notifikasi jika terdapat Approval PP baru untuk beberapa user dan Full Approved untuk Dept Purchase.
+- Source Code : [E-PP](https://drive.google.com/file/d/1XccJCHeYBdELVHLar-66SbCSQNHo_2nZ/view?usp=sharing)
+- Live Apps : [Here](182.16.186.138:8080/pponline)
 
 ##
-> - ## **KPI (PT. Siantar Top)**
+> - ## **E-KPI (PT. Siantar Top)**
 
 ![image](https://github.com/user-attachments/assets/23c36d13-7970-48c8-9f20-4c79518b70b5)
 ![image](https://github.com/user-attachments/assets/e5ea6f02-7884-4131-a501-3a40ea4c0e29)
@@ -33,6 +37,8 @@
 ![image](https://github.com/user-attachments/assets/a57d115c-91ee-4393-9970-781e2d152ecc)
 ![image](https://github.com/user-attachments/assets/09ca729d-f3ab-41f4-a994-23a15ecb4b80)
   KPI (Key Performance Indicator) adalah sebuah aplikasi yang membantu HR untuk mengelola, menganalisa, dan memonitoring kinerja karyawan agar tujuan perusahaan tercapai. Selain itu aplikasi ini juga membantu HR untuk mengevaluasi kinerja karyawan berupa report mingguan maupun bulanan sehingga dapat menentukan bagian mana yang dapat dilakukan perbaikan. Selanjutnya, Aplikasi ini juga menjadi dasar acuan untuk pemberian besaran Insentif yang akan diterima pada beberapa Karyawan.
+- Source Code : [E-KPI](https://drive.google.com/file/d/1p59o9DK6m2m6OXHrjfUULYtXUFIkoINr/view?usp=sharing)
+- Live Apps : [Here](182.16.186.138:8080/kpi)
 
 ##
 > - ## **E-RAB (PT. Siantar Top)**
@@ -44,12 +50,15 @@
 ![image](https://github.com/user-attachments/assets/70a6305b-fb6c-4766-b3c8-b334cbe92814)
   Aplikasi ini digunakan untuk memudahkan Approval pada suatu RAB dimanapun dan kapanpun hanya via smartphone masing-masing tanpa melalui aplikasi Orlansoft Desktop. Selain itu, aplikasi ini juga dapat melampirkan dokumen sebagai pendukung dari dibuatnya suatu RAB. Sehingga, aplikasi ini mengurangi  penggunaan kertas, mengurangi jumlah HK, dan dapat mengurangi biaya serta memudahkan proses lainnya dalam suatu alur RAB.
   Fitur Lain pada Aplikasi ini adalah fitur notifikasi jika terdapat Approval RAB baru untuk.
+- Source Code : [E-RAB](https://drive.google.com/file/d/1v1boXnqa8fLQLRdLH2gZiSfpYD_3lFYw/view?usp=sharing)
+- Live Apps : [Here](182.16.186.138:8080/erab)
 
 ##
 > - ## **WO Teknik (PT. Cita Rasa Sukses)**
 
 ![image](https://github.com/user-attachments/assets/697f0c1b-e354-4f42-8844-4d11f655b10d)
   Aplikasi ini digunakan untuk manajemen WO yang masuk ke Teknik CRS. Sehingga, dengan adanya aplikasi ini akan memudahkan proses Administrasi, Efisiensi waktu dan penggunaan kertas, serta memudahkan proses kontrol WO untuk beberapa Pihak terkait
+- Source Code : [WO Teknik](https://drive.google.com/file/d/1GAvbCJdIHRuZu0_3ZbF8i5YIw6MiamLT/view?usp=sharing)
 
 ##
 > - ## **Warehouse MS / E-Tally (PT. Siantar Top)**
@@ -66,7 +75,9 @@
 ![image](https://github.com/user-attachments/assets/67e6d60e-7456-4ec3-a718-ec5412793b8e)
   Aplikasi ini digunakan untuk mendigitalisasi Proses Muat di Siantar Top. Mulai dari DO dibawa sopir dan diarahkan ke gudang, proses muat gudang, serta proses shipment gudang. Aplikasi ini juga bertujuan untuk efisiensi penggunaan SDM terkait serta memangkas waktu yang dibutuhkan untuk Proses input di Orlansoft, sehingga data yang tercatat pada Sistem akan secara Real Time juga di Orlansoft. 
   Kemudian aplikasi ini akan membantu banyak pihak untuk meminimalisir kesalahan input baik dari proses Location Transfer maupun dari proses Shipment dengan cara menggabungkan kedua proses tersebut. Selain itu, Aplikasi ini juga digunakan sebagai acuan untuk proses Penggajian MP Borongan Muat dimana perolehan upah yang diterima akan menjadi lebih adil lagi karena sesuai dengan real muat yang dilakukan MP Borongan Muat. 
-  Di Aplikasi ini juga, beberapa user terkait dapat memantau performa muat karyawan yang berada di Lapangan, mulai dari Tally, Karu, Kabag, dan Manajer, sehingga dapat menjadi bahan untuk Evaluasi bersama agar Proses Muat di Lapangan menjadi lebih efisien lagi
+  Di Aplikasi ini juga, beberapa user terkait dapat memantau performa muat karyawan yang berada di Lapangan, mulai dari Tally, Karu, Kabag, dan Manajer, sehingga dapat menjadi bahan untuk Evaluasi bersama agar Proses Muat di Lapangan menjadi lebih efisien lagi.
+- Source Code : [Warehouse](https://drive.google.com/file/d/1DVXnKHaZLVyD4zHNXdatVb41HnkG-crl/view?usp=sharing)
+- Live Apps : [Here](182.16.186.138:8080/warehouse)
 
 ##
 > - ## **Analisa Microbiologi QC (PT. Siantar Top)**
