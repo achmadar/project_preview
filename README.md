@@ -99,21 +99,23 @@
 ![image](https://github.com/user-attachments/assets/e6681339-5282-4981-ab83-07d06dd5778f)
 ![image](https://github.com/user-attachments/assets/a4a3e4ad-3041-48c2-8424-9f7cd694ce22)
 ![image](https://github.com/user-attachments/assets/7c9ed923-339b-4b1c-84bf-cb7a09a80ee7)
-
+  Aplikasi ini berfungsi sebagai Slip Gaji yang akan diberikan ke karyawan sebagai Bukti jika Upah pada periode tertentu sudah dibayarkan sesuai dengan nominal yang tertera pada Kitir. Aplikasi ini akan menghitung Total Upah, Lembur, Bonus, Potongan Koperasi dan Potongan Lain dari Karyawan Siantar Top baik MP Borongan maupun Harian dengan status Karyawan Kontrak maupun Tetap. Kemudian, hasil perhitungan tersebut akan dikeluarkan dalam bentuk Kitir (Slip Gaji) secara rinci. Aplikasi ini dibuat menggunakan Bahasa Visual FoxPro dan Database DBase.
+- Source Code : [Slip Gaji](https://drive.google.com/file/d/1GO3MB0Bw8ncnWh8550fsM2VHyALwKXOF/view?usp=sharing)
 
 ##
 > - ## **Perincian Upah Borongan SIR (Tanda Terima Upah) (PT. Siantar Top)**
 
 ![image](https://github.com/user-attachments/assets/178dffb3-8352-4438-8a01-bcb73721aa75)
 ![image](https://github.com/user-attachments/assets/4c8fc5cc-0b5a-45dc-bf70-08d2f0224282)
-  Aplikasi ini adalah Aplikasi untuk menampilkan Tanda Terima perhitungan Upah Borongan dari Outsourching PT. SIR anak perusahaan Siantar Top. Aplikasi ini digunakan oleh beberapa Karu dan Admin untuk membagi Upah dari Karyawan Outsourching setelah mendapatkan Patty Cash dari Dept Cashbank.
-- Source Code : (Tanda Terima Upah)[https://drive.google.com/file/d/1kzh7uMqsZ9Kgdn3Q3eklpZXoRtw_NiAD/view?usp=sharing]
+  Aplikasi ini digunakan untuk menampilkan Tanda Terima perhitungan Upah Borongan dari Outsourching PT. SIR anak perusahaan Siantar Top. Aplikasi ini digunakan oleh beberapa Karu dan Admin untuk membagi Upah dari Karyawan Outsourching setelah mendapatkan Patty Cash dari Dept Cashbank. Aplikasi ini dibuat menggunakan Bahasa Visual FoxPro dan Database DBase.
+- Source Code : [Tanda Terima Upah](https://drive.google.com/file/d/1kzh7uMqsZ9Kgdn3Q3eklpZXoRtw_NiAD/view?usp=sharing)
   
 
 ##
 > - ## **Web Profile - Siantar Top**
 
-
+![image](https://github.com/user-attachments/assets/afaf51bf-77a8-465f-98df-f5a2062d09ff)
+  Web Profile ini dibuat menggunakan CMS Wordpress. Dalam perjalannya, web profile resmi ini terdapat peremajaan pada Template yang digunakan sehingga perlu adanya Rebuild Ulang agar Speed pada saat akses mendapat improvement.
 - Live Apps : [Here](http://siantartop.co.id)
 
 ##
