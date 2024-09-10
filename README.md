@@ -94,7 +94,19 @@
 - Live Apps : [Here](http://182.16.186.138:1708/microbiology)
 
 ##
-> - ## **Kitir Borongan Harian (PT. Siantar Top)**
+> - ## **Kitir Borongan Harian - Kontrak, Tetap (Slip Gaji) (PT. Siantar Top)**
+
+![image](https://github.com/user-attachments/assets/e6681339-5282-4981-ab83-07d06dd5778f)
+![image](https://github.com/user-attachments/assets/a4a3e4ad-3041-48c2-8424-9f7cd694ce22)
+![image](https://github.com/user-attachments/assets/7c9ed923-339b-4b1c-84bf-cb7a09a80ee7)
+
+
+##
+> - ## **Perincian Upah Borongan SIR (Tanda Terima Upah) (PT. Siantar Top)**
+
+![image](https://github.com/user-attachments/assets/178dffb3-8352-4438-8a01-bcb73721aa75)
+![image](https://github.com/user-attachments/assets/4c8fc5cc-0b5a-45dc-bf70-08d2f0224282)
+  
 
 ##
 > - ## **Web Profile - Siantar Top**
