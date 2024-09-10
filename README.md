@@ -106,6 +106,8 @@
 
 ![image](https://github.com/user-attachments/assets/178dffb3-8352-4438-8a01-bcb73721aa75)
 ![image](https://github.com/user-attachments/assets/4c8fc5cc-0b5a-45dc-bf70-08d2f0224282)
+  Aplikasi ini adalah Aplikasi untuk menampilkan Tanda Terima perhitungan Upah Borongan dari Outsourching PT. SIR anak perusahaan Siantar Top. Aplikasi ini digunakan oleh beberapa Karu dan Admin untuk membagi Upah dari Karyawan Outsourching setelah mendapatkan Patty Cash dari Dept Cashbank.
+- Source Code : (Tanda Terima Upah)[https://drive.google.com/file/d/1kzh7uMqsZ9Kgdn3Q3eklpZXoRtw_NiAD/view?usp=sharing]
   
 
 ##
